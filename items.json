@@ -1,0 +1,488 @@
+[
+  {
+    "id": 1,
+    "name": "Berserker's Fury",
+    "type": "Physical",
+    "price": 2390,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/berserker.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Blade of Despair",
+    "type": "Physical",
+    "price": 3010,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/bod.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Blade of the Heptaseas",
+    "type": "Physical",
+    "price": 1950,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/heptasis.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Corrosion Scythe",
+    "type": "Physical",
+    "price": 2050,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/sabit ijo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Demon Hunter Sword",
+    "type": "Physical",
+    "price": 2180,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/dhs.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Endless Battle",
+    "type": "Physical",
+    "price": 2330,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/endless.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Fleeting Time",
+    "type": "Physical",
+    "price": 2050,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/fleting time.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Golden Staff",
+    "type": "Physical",
+    "price": 2000,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/golden stuf.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Great Dragon Spear",
+    "type": "Physical",
+    "price": 2140,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/gds.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Haas's Claws",
+    "type": "Physical",
+    "price": 2020,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/cakar2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Hunter Strike",
+    "type": "Physical",
+    "price": 2010,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/hunter strike.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Malefic Gun",
+    "type": "Physical",
+    "price": 2120,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/malefic gun.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Malefic Roar",
+    "type": "Physical",
+    "price": 2060,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/gun.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Rose Gold Meteor",
+    "type": "Physical",
+    "price": 1820,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/rgm.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Sea Halberd",
+    "type": "Physical",
+    "price": 2050,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/seahalberd.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Sky Piercer",
+    "type": "Physical",
+    "price": 1500,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/sky piercer.jpg"
+  },
+  {
+    "id": 17,
+    "name": "War Axe",
+    "type": "Physical",
+    "price": 2100,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/war axe.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Wind of Nature",
+    "type": "Physical",
+    "price": 1910,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/won.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Windtalker",
+    "type": "Physical",
+    "price": 1880,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/wind talker.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Winter Crown",
+    "type": "Physical",
+    "price": 1910,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/winter.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Legion Sword",
+    "type": "Physical",
+    "price": 910,
+    "stats": { "physical_attack": 60 },
+    "description": "",
+    "icon": "src/assets/img/pedang.png"
+  },
+  {
+    "id": 22,
+    "name": "Magic Blade",
+    "type": "Physical",
+    "price": 1050,
+    "stats": { "lifesteal": 10, "physical_attack": 35 },
+    "description": "",
+    "icon": "src/assets/img/pedang biru.png"
+  },
+  {
+    "id": 23,
+    "name": "Ogre Tomahawk",
+    "type": "Physical",
+    "price": 650,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/kapak.png"
+  },
+  {
+    "id": 24,
+    "name": "Regular Spear",
+    "type": "Physical",
+    "price": 600,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/tombak biasa.png"
+  },
+  {
+    "id": 25,
+    "name": "Enchanted Talisman",
+    "type": "Magic",
+    "price": 1870,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/buku.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Feather of Heaven",
+    "type": "Magic",
+    "price": 2030,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/bulu.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Flask of the Oasis",
+    "type": "Magic",
+    "price": 1850,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/foto.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Genius Wand",
+    "type": "Magic",
+    "price": 2000,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/gw.png"
+  },
+  {
+    "id": 29,
+    "name": "Glowing Wand",
+    "type": "Magic",
+    "price": 2150,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/glowing.png"
+  },
+  {
+    "id": 30,
+    "name": "Lightning Truncheon",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/lightning.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Blood Wings",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/bw.png"
+  },
+  {
+    "id": 32,
+    "name": "Starlium Scythe",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/ss.png"
+  },
+  {
+    "id": 33,
+    "name": "Ice Queen Wand",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/iqw.png"
+  },
+  {
+    "id": 34,
+    "name": "Concentrated Energy",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/ce.png"
+  },
+  {
+    "id": 35,
+    "name": "Holy Crystal",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/holy cristal.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Divine Glaive",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/devine.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Clock of Destiny",
+    "type": "Magic",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/cod.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Radiant Armor",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/radian armor.png"
+  },
+  {
+    "id": 39,
+    "name": "Twilight Armor",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/twilight armor.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Brute Force Breastplate",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/bf.png"
+  },
+  {
+    "id": 41,
+    "name": "Immortality",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/imortal.png"
+  },
+  {
+    "id": 42,
+    "name": "Dominance Ice",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/dominan ice.png"
+  },
+  {
+    "id": 43,
+    "name": "Athena's Shield",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/athena.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Oracle",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/orekel.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Antique Cuirass",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/antiq.png"
+  },
+  {
+    "id": 46,
+    "name": "Guardian Helmet",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/helm gojek.png"
+  },
+  {
+    "id": 47,
+    "name": "Cursed Helmet",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/helm bakar.jpg"
+  },
+  {
+    "id": 48,
+    "name": "Thunder Belt",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/tb.png"
+  },
+  {
+    "id": 49,
+    "name": "Queen's Wings",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/wings.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Blade Armor",
+    "type": "Defense",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/blade armor.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Demon Boots",
+    "type": "Movement",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/sepatu mana.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Rapid Boots",
+    "type": "Movement",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/sepatu kenceng.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Swift Boots",
+    "type": "Movement",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/sepatu mm.png"
+  },
+  {
+    "id": 54,
+    "name": "Warrior Boots",
+    "type": "Movement",
+    "price": 0,
+    "stats": {},
+    "description": "",
+    "icon": "src/assets/img/sepatu armor.jpg"
+  }
+]
