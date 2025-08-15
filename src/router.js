@@ -13,6 +13,10 @@ const routes = [
     component: Utama,
     children: [
       {
+        path: '',
+        redirect: 'cari-item',
+      },
+      {
         path: 'beranda',
         name: 'Beranda',
         component: Beranda,
